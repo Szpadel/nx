@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./request-context","export":["RequestContext"]},{"from":"./add-imports-to-module","export":["addImportsToModule"]},{"from":"./add-ngrx-to-package-json","export":["addNgRxToPackageJson"]},{"from":"./add-exports-barrel","export":["addExportsToBarrel"]}]}]

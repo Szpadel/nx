@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"deleteFile":{"__symbolic":"function","parameters":["from"],"value":{"__symbolic":"call","expression":{"__symbolic":"reference","module":"@angular-devkit/schematics","name":"forEach","line":6,"character":9},"arguments":[{"__symbolic":"error","message":"Lambda not supported","line":6,"character":17}]}}}}]
